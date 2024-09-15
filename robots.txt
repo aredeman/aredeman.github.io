@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aredeman.github.io/sitemap.html.gz
+Sitemap: https://aredeman.github.io/app/sitemap.html.gz
+Sitemap: https://aredeman.github.io/assets/sitemap.html.gz
+Sitemap: https://aredeman.github.io/css/sitemap.html.gz
+Sitemap: https://aredeman.github.io/includes/sitemap.html.gz
+Sitemap: https://aredeman.github.io/item/sitemap.html.gz
+Sitemap: https://aredeman.github.io/src/sitemap.html.gz
